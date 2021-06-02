@@ -1,2 +1,2 @@
 # testrepo
-learning smartgit etc
+learning smartgit and pycharm
