@@ -16,7 +16,6 @@ def guesser(g):
         guess_list.append(get_close_matches(g.title(), data.keys(), cutoff=0.8))
     if len(get_close_matches(g.upper(), data.keys(), cutoff=0.8)) > 0:
         guess_list.append(get_close_matches(g.upper(), data.keys(), cutoff=0.8))
-    print(guess_list)
 
     for guess in guess_list:
         for g in guess:
