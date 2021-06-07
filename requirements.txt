@@ -1,2 +1,4 @@
-us
+us~=2.0.2
 requests
+pandas~=1.2.4
+mysql-connector-python~=8.0.25
