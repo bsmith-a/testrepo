@@ -1,5 +1,4 @@
-from thesaurus.dict import read, guesser, data
-
+from thesaurus.dict import read, data, guesser
 
 def driver():
     # asks for word
