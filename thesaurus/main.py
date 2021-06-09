@@ -1,5 +1,6 @@
 from thesaurus.dict import read, data, guesser
 
+
 def driver():
     # asks for word
     word = input("Enter word: ")
