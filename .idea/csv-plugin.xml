@@ -17,6 +17,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\mapping\volcanoes-2021-06-11_11-32-03_-0400 - volcanoes-2021-06-11_11-32-03_-0400.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
